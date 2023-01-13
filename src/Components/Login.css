@@ -1,0 +1,107 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+ .imgreact{
+ height: 180px;
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ margin-top: 35px;
+ }
+.container{
+  text-align: center;
+ }
+ .inputs{
+  border: 1px solid black;
+  height: 30px;
+  width: 280px;
+ border-radius: 15px;
+ }
+ #pass{
+  margin: 15px;
+ }
+ .inputs1{
+  border: 1px solid;
+  height: 40px;
+  width: 280px;
+ border-radius: 20px;
+ background-color:#ff0039f5;
+ color: white;
+ margin: 2px;
+ padding: 2px;
+ }
+.marginI{
+  margin: 5px;
+}
+.is{
+  font-size: 25px;
+ 
+ }
+ .fpass{
+  margin-right: 4px;
+  position: fixed;
+  left: 52%;
+  font-size: 13px;
+  color:#ff0039f5; 
+ }
+
+.orLogin{
+  margin: 5px;
+  padding: 25px;
+}
+.btn{
+  background-color: white;
+  color: black;
+  border: none;
+  font-size: 20px; 
+}
+.btn2{
+  background-color: white;
+  color: black;
+  border: none;
+  font-size: 20px;
+}
+
+.active {
+  border-bottom: 3px solid  #ff0039f5;
+  padding: 0px;
+   width : 120px;
+   height : 30px;
+}
+.active1{
+  padding: 0px;
+  width : 120px;
+  height : 30px;
+}
+
+.iconB {
+  border: 1px solid  #ebbcbcf5;
+  border-radius: 50%;
+  
+}
+.LowerText{
+font-size: 13px;
+}
+.LowerTextCol{
+  color:#ff0039ff;
+}
+.LowerTextCol1{
+  color:#ff0039ff;
+  border-bottom: 1px solid  #ff0039f5;  
+
+}
+.textsize{
+  font-size: 12px;
+}
+#email{
+  padding-left: 8px;
+}
+#pass{
+  padding-left: 8px;
+}
+.loginbtns{
+  display: flex ;
+  justify-content:  center; 
+   padding  : 18px
+}
